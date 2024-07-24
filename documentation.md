@@ -56,6 +56,8 @@ $LOG_FILE {
 EOF
 }
 ```
-
+## How to retrieve logs
+* run `cat <path_to_your_logfile>` to display the entire logs
+* run  `tail /var/log/system_monitor.log` to view the most recent logs
 
 
